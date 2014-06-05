@@ -36,3 +36,5 @@ Execute
 3.) opencv-latest.sh
 
 Thanks to jayrambhia and Install-OpenCV for the installation scripts
+
+numpy-1.8.1 is also used in this project.
